@@ -14,6 +14,17 @@ public class RunStudent {
 		Scanner  sc = new Scanner(System.in);
 		char	agree = 'n' ;
 		/*Static*/
+		/* *
+		Student s = new Student();
+		s.setId("001");
+		s.setFname("Kaushal");
+		s.setLname("Kumar");
+		s.setCollege("IOE");
+		s.setAge(40);
+		StudentService  si = new StudentServiceImpl();
+		si.addStudent(s);
+		 * */
+		
 		
 		
 		/*Get Input from Keyboard*/
